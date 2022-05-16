@@ -1,0 +1,15 @@
+pkgbase = express-generator
+	pkgdesc = Express' application generator.
+	pkgver = 4.16.1
+	pkgrel = 1
+	url = https://eslint.org
+	arch = any
+	license = MIT
+	makedepends = npm
+	makedepends = jq
+	depends = nodejs
+	noextract = express-generator-4.16.1.tgz
+	source = https://registry.npmjs.org/express-generator/-/express-generator-4.16.1.tgz
+	sha512sums = b56604c7963f2e5a2cdaa0bac8011399da843043ea354cc9f1bb46712676cd2afc45839a9737df86f87dcf1e4e41372dbce809f64298c72bc518022e52e17fc0
+
+pkgname = express-generator
